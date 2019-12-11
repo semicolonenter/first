@@ -3,8 +3,7 @@
 import cv2
 import numpy as np
 
-image = cv2.imread("nv0043.jpg")
-# image = cv2.resize(image, (300,300))
+image = cv2.imread("images/group1.jpg")
 
 cv2.imshow("image", image)
 cv2.waitKey(0)
