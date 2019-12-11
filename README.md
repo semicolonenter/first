@@ -1,2 +1,13 @@
+## Skin Lesion Feature Extraction
 This is a simple pipeline for skin lesion feature extraction.
-![Lesion](/images/nv0043.jpg)
+### Original image
+
+![Lesion](/images/group1.jpg)
+
+### Hair removal
+
+
+### Lesion segmentation
+
+
+### Keypoints detection
